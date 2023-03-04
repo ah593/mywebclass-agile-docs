@@ -1,4 +1,4 @@
-## Theme: Establish a Strong Web Presence while Complying with GDPR
+# Theme: Establish a Strong Web Presence while Complying with GDPR
 
 ### Initiatives:
 
