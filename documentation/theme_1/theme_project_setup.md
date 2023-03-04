@@ -1,18 +1,27 @@
 # Theme 1.0: Project Setup
 ## Overview
-Our objective is to establish a highly visible web presence using lean and agile principles to quickly and effectively
-develop a strong foundation for our web project. By completing the initiatives outlined in this theme, we can establish a
-solid foundation that ensures our web page meets our business requirements throughout the life of the project, setting
-us up for long-term success.
-## Initiative(s)
+MyWebClass.org is an education website that helps teachers revolutionize their teaching through knowledge of new software engineering technologies. The website will be developed with a focus on Lean and Agile methodologies, using a pull process rather than a push. It will be built using W3C validation and Lighthouse best practices, and will conform to GDPR regulations. The website will include a privacy policy page that will be developed using a simple content template.
 
-* [Develop initial project documentation to establish a clear project scope.](initiatives/documentation_initiative.md)
-* [Set up the CI/CD DevOps processes to ensure efficient and collaborative development practices.](initiatives/initiative_devops.md)
-* [Create an initial web page template that includes](initiatives/initiative_webpage_template.md)
+## Theme: Set up Development Environment
+### Initiative(s)
+- Set up local development environment
+- Set up production development environment
+- Set up testing processes
 
-* Monitoring to continuously improve the quality of our project
-  * Website analytics to collect data that can be used to continuously improve MyWebClass for our community members
-  * Project metrics to continuously improve the management of the project
+**Epics:**
 
-## Test plan
-How will this be tested?
+- Install necessary software and tools
+- Configure development environment
+- Set up testing processes
+
+**User Stories:**
+
+- As a developer, I want to set up a local development environment so that I can develop and test the website on my local machine.
+- As a developer, I want to set up a production development environment so that the website can be deployed to a production server.
+- As a developer, I want to set up testing processes so that I can test the website before deploying it to production.
+
+**Tasks:**
+
+- Research and install necessary software and tools
+- Configure development environment
+- Set up testing processes
