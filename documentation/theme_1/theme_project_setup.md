@@ -1,8 +1,7 @@
-# Theme 1.0: Project Setup
+# Theme: Set up Development Environment
 ## Overview
 MyWebClass.org is an education website that helps teachers revolutionize their teaching through knowledge of new software engineering technologies. The website will be developed with a focus on Lean and Agile methodologies, using a pull process rather than a push. It will be built using W3C validation and Lighthouse best practices, and will conform to GDPR regulations. The website will include a privacy policy page that will be developed using a simple content template.
 
-## Theme: Set up Development Environment
 ### Initiative(s)
 - Set up local development environment
 - Set up production development environment
