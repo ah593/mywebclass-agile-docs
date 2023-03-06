@@ -31,6 +31,10 @@ MyWebClass.org is an innovative education website that empowers teachers to revo
 - User Story 1: As a website developer, I want to configure Google Analytics to comply with GDPR by enabling IP anonymization so that website visitor data is not collected by Google.
 - User Story 2: As a website developer, I want to configure Google Analytics to comply with GDPR by creating a data retention policy so that website visitor data is not stored longer than necessary.
 
+#### Epic 5: Implement Simple Testing for GDPR Compliance
+- User Story 1: As a website owner, I want to ensure that the website complies with GDPR regulations by implementing simple testing procedures.
+- User Story 2: As a website developer, I want to create automated tests to monitor compliance with GDPR regulations, including the collection, processing, and sharing of user data.
+- User Story 3: As a website developer, I want to integrate the automated testing suite with the website's continuous integration and deployment process to ensure ongoing compliance with GDPR regulations.
 ### Tasks:
 
 1. Conduct research on GDPR requirements for privacy policies.
