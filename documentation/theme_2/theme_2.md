@@ -33,7 +33,6 @@ MyWebClass.org is an innovative education website that empowers teachers to revo
     -   The right to lodge a complaint with a supervisory authority
     -   The source of the personal data (if not collected from the data subject)
     -   The existence of automated decision-making, including profiling, and information about how decisions are made, the significance, and the consequences.
-    The content template should be created in a way that it can be used for multiple websites.
 
 #### Epic 3: Develop the Privacy Policy Webpage
 
