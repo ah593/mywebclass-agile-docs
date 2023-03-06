@@ -1,6 +1,6 @@
 # Theme: Establish a Strong Web Presence while Complying with GDPR
 ## Overview
-MyWebClass.org is an education website that helps teachers revolutionize their teaching through knowledge of new software engineering technologies. The website will be developed with a focus on Lean and Agile methodologies, using a pull process rather than a push. It will be built using W3C validation and Lighthouse best practices, and will conform to GDPR regulations. The website will include a privacy policy page that will be developed using a simple content template.
+MyWebClass.org is an innovative education website that empowers teachers to revolutionize their teaching by leveraging the latest software engineering technologies. The website's development process will be guided by the industry-leading Lean and Agile methodologies, which promote collaboration, continuous improvement, and customer-centricity. The website will utilize a pull process to enable seamless feedback and iteration, ensuring that the end product meets the evolving needs of its users. Additionally, MyWebClass.org will adhere to strict quality standards, including W3C validation and Lighthouse best practices, and will comply with GDPR regulations. As part of its commitment to transparency and user privacy, the website will feature a comprehensive privacy policy page developed using a simple content template.
 ### Initiatives:
 
 1. Define Privacy Policy Requirements
