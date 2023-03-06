@@ -44,3 +44,4 @@ MyWebClass.org is an innovative education website that empowers teachers to revo
 5. Add a link to the privacy policy webpage in the website's footer.
 6. Configure Google Analytics to comply with GDPR by enabling IP anonymization.
 7. Configure Google Analytics to comply with GDPR by creating a data retention policy.
+8. Configure Google Analytics to comply with GDPR by adding an appropriate cookie banner to the website to obtain user consent for data collection.
